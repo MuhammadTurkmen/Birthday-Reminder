@@ -3,8 +3,8 @@ import React from 'react';
 const List = ({people}) => {
   return (
     <>
-      {people.map(() => {
-        
+      {people.map((person) => {
+
       })}
     </>
   );
