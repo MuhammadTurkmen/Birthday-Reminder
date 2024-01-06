@@ -1,6 +1,6 @@
 import React from 'react';
 
-const List = () => {
+const List = ({people}) => {
   return (
     <>
       <h2>list component</h2>
