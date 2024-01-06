@@ -11,7 +11,7 @@ const List = ({people}) => {
             <h4>{name}</h4>
             <p>{age} years</p>
           </div>
-        </article> 
+        </article>  
       })}
     </>
   );
