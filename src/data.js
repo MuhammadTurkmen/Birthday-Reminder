@@ -1,6 +1,6 @@
 export default [
   {
-    id: 1,
+    id: 1, 
     name: 'Bertie Yates',
     age: 29,
     image:
