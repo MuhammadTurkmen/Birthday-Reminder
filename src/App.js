@@ -9,7 +9,7 @@ function App() {
       <List people={people}/>
       <button onClick={() => setPeople([])}>
         clear all
-      </button>
+      </button> 
     </section>
   </main>;
 }
