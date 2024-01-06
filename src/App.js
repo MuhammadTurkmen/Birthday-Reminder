@@ -6,6 +6,9 @@ function App() {
     <section className="container">
       <h3>0 Birthdays today</h3>
       <List />
+      <button onClick={() => console.log('you clicked me')}>
+        clear all
+      </button>
     </section>
   </main>;
 }
